@@ -23,6 +23,7 @@ Implementation notes:
 Technology stack:
 
 * Scala 2.12
+* sbt 0.13.15
 * Akka HTTP 10.0.5
 * Slick 3
 * H2 in-memory database
