@@ -1,6 +1,6 @@
 # Akka HTTP sample project
 
-This sample code was creted to broad my horizons in Scala and Akka HTTP.
+This sample code was created to broad my horizons in Scala and Akka HTTP.
 
 This a simple REST service provides two resources: Author and Book.
 
