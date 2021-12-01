@@ -1,41 +1,49 @@
-lazy val distProject = project
-  .in(file("."))
-  .enablePlugins(JavaAgent)
-  .settings(
-    //    javaAgents += "io.opentelemetry.javaagent" % "opentelemetry-javaagent" % "1.7.2"
-    javaAgents += JavaAgent("OpenTelemetry" % "javaagent" % "1.7.2-Release" % "runtime")
-    //      javaAgents += JavaAgent("com.example" % "agent" % "1.2.3" % "compile;test", arguments = "java_agent_argument_string")
-
-  )
-
+val AkkaVersion = "2.6.17"
+val AkkaHttpVersion = "10.2.4"
+val LogbackVersion = "1.2.3"
+val slickVersion = "3.2.0"
+val slf4jVersion = "1.7.10"
+val scalaTestVersion = "3.0.1"
+val h2Version = "1.4.193"
+val akkaVersion = "2.6.14"
+//val javaAgentVersion = "1.7.2-Release"
+val javaAgentVersion = "1.9-Release"
 
 name := "akka-http-microservice"
 organization := "com.theiterators"
 
 version := "1.0"
-
 scalaVersion := "2.12.2"
 
+
+Compile / mainClass := Some("org.example.service.RestService")
+
+lazy val distProject = project
+  .in(file("."))
+  .enablePlugins(JavaAgent)
+  .settings(
+    javaAgents += JavaAgent("OpenTelemetry" % "javaagent" % "1.9-Release" % "runtime")
+  )
+
 resolvers += "Artifactory" at "https://aspecto.jfrog.io/artifactory/aspecto-public-maven"
-javaOptions in run := List(
+run / javaOptions := List(
   "-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005",
-  "-javaagent:/Users/dave.e/Library/Caches/Coursier/v1/https/aspecto.jfrog.io/artifactory/aspecto-public-maven/OpenTelemetry/javaagent/1.7.2-Release/javaagent-1.7.2-Release.jar"
+  "-javaagent:/Users/dave.e/Library/Caches/Coursier/v1/https/aspecto.jfrog.io/artifactory/aspecto-public-maven/OpenTelemetry/javaagent/1.9-Release/javaagent-1.9-Release.jar"
 )
 
 libraryDependencies ++= {
-  val akkaHttpV = "10.0.5"
-  val slickV = "3.2.0"
-  val scalaTestV = "3.0.1"
-  val h2V = "1.4.193"
   Seq(
-    "com.typesafe.akka" %% "akka-http" % akkaHttpV,
-    "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpV,
-    "com.typesafe.slick" %% "slick" % slickV,
-    "org.slf4j" % "slf4j-nop" % "1.7.10",
-    "com.h2database" % "h2" % h2V,
-    "com.typesafe.akka" %% "akka-http-testkit" % akkaHttpV % "test",
-    "org.scalatest" %% "scalatest" % scalaTestV % "test"
-  ) ++ Seq(
-    "OpenTelemetry" % "javaagent" % "1.7.2-Release"
+    "com.typesafe.akka"   %% "akka-http"                % AkkaHttpVersion,
+    "com.typesafe.akka"   %% "akka-http-spray-json"     % AkkaHttpVersion,
+    "com.typesafe.akka"   %% "akka-http-testkit"        % AkkaHttpVersion % "test",
+    "com.typesafe.akka"   %% "akka-actor-typed"         % akkaVersion,
+    "com.typesafe.akka"   %% "akka-stream"              % akkaVersion,
+    "com.typesafe.akka"   %% "akka-actor-typed"         % akkaVersion,
+    "com.typesafe.akka"   %% "akka-stream-typed"        % akkaVersion,
+    "com.typesafe.slick"  %% "slick"                    % slickVersion,
+    "org.slf4j"           % "slf4j-nop"                 % slf4jVersion,
+    "com.h2database"      % "h2"                        % h2Version,
+    "org.scalatest"       %% "scalatest"                % scalaTestVersion % "test",
+    "OpenTelemetry"       % "javaagent"                 % javaAgentVersion
   )
 }
