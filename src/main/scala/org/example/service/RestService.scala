@@ -8,7 +8,6 @@ import akka.http.scaladsl.server.Route
 import org.example.model.entities.{Author, Authors, Book, Books}
 import org.example.routes.{AuthorRoutes, BookRoutes}
 import slick.jdbc.H2Profile.api._
-
 import scala.concurrent.Await
 import scala.concurrent.duration.Duration
 import scala.util.Try
