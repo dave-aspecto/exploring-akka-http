@@ -1,0 +1,1351 @@
+[0m2022.01.11 18:17:46 INFO  Started: Metals version 0.10.9 in workspace '/Users/amirblum/repos/exploring-akka-http' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.11 18:17:47 INFO  time: initialize in 1.56s[0m
+[0m2022.01.11 18:17:48 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.11 18:17:48 WARN  Unsupported sbt version 0.13.15[0m
+[0m2022.01.11 18:20:39 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala[0m
+[0m2022.01.11 18:20:42 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.11 18:20:43 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala[0m
+[0m2022.01.11 18:20:44 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala[0m
+[0m2022.01.11 18:20:45 INFO  time: code lens generation in 1.43s[0m
+[0m2022.01.11 18:20:45 INFO  time: code lens generation in 5.51s[0m
+[0m2022.01.11 18:20:45 INFO  time: code lens generation in 5.86s[0m
+[0m2022.01.11 18:20:45 INFO  time: code lens generation in 2.13s[0m
+[0m2022.01.11 18:21:24 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.11 18:21:53 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.11 18:23:24 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.11 18:25:52 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.11 18:32:00 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.11 18:39:41 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.11 18:45:50 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala[0m
+[0m2022.01.11 18:48:37 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala[0m
+Jan 11, 2022 6:49:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 11, 2022 6:50:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 225
+[0m2022.01.11 18:51:16 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala[0m
+[0m2022.01.11 18:51:26 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala[0m
+Jan 12, 2022 3:32:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.01.12 15:32:57 ERROR scalafmt: /Users/amirblum/repos/exploring-akka-http/build.sbt:44: error: [dialect default] ) expected but string constant found
+    "org.slf4j" % "slf4j-nop" % slf4jVersion,
+    ^[0m
+[0m2022.01.12 15:32:57 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.12 15:33:05 INFO  running '/Library/Java/JavaVirtualMachines/openjdk-14.0.1.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/metals4004825780517649875/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2022.01.12 15:33:05 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/project/metals.sbt[0m
+[0m2022.01.12 15:33:05 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/project/project/metals.sbt[0m
+[0m2022.01.12 15:33:06 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 14.0.1)[0m
+[0m2022.01.12 15:33:08 INFO  [info] loading settings for project exploring-akka-http-build-build-build from metals.sbt ...[0m
+[0m2022.01.12 15:33:13 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project/project[0m
+[0m2022.01.12 15:33:14 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.12 15:33:14 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.12 15:33:14 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.12 15:33:14 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.12 15:33:15 WARN  no build target for: /Users/amirblum/repos/exploring-akka-http/build.sbt[0m
+[0m2022.01.12 15:33:21 INFO  [info] loading settings for project exploring-akka-http-build-build from metals.sbt ...[0m
+[0m2022.01.12 15:33:21 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project[0m
+[0m2022.01.12 15:33:28 INFO  [success] Generated .bloop/exploring-akka-http-build-build.json[0m
+[0m2022.01.12 15:33:28 INFO  [success] Total time: 7 s, completed 12 Jan 2022, 15:33:28[0m
+[0m2022.01.12 15:33:28 INFO  [info] loading settings for project exploring-akka-http-build from metals.sbt,plugins.sbt ...[0m
+[0m2022.01.12 15:33:28 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project[0m
+[0m2022.01.12 15:33:37 INFO  [success] Generated .bloop/exploring-akka-http-build.json[0m
+[0m2022.01.12 15:33:37 INFO  [success] Total time: 7 s, completed 12 Jan 2022, 15:33:37[0m
+[0m2022.01.12 15:33:37 INFO  [info] loading settings for project distProject from build.sbt ...[0m
+[0m2022.01.12 15:33:37 INFO  [info] set current project to akka-http-microservice (in build file:/Users/amirblum/repos/exploring-akka-http/)[0m
+[0m2022.01.12 15:33:37 INFO  [info] .env detected (fileName=.env). About to configure JVM System Environment with new map[0m
+[0m2022.01.12 15:33:37 ERROR WARNING: An illegal reflective access operation has occurred[0m
+[0m2022.01.12 15:33:37 ERROR WARNING: Illegal reflective access by au.com.onegeek.sbtdotenv.DirtyEnvironmentHack$ (file:/Users/amirblum/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/au.com.onegeek/sbt-dotenv/scala_2.12/sbt_1.0/2.1.204/jars/sbt-dotenv.jar) to field java.lang.ProcessEnvironment.theEnvironment[0m
+[0m2022.01.12 15:33:37 ERROR WARNING: Please consider reporting this to the maintainers of au.com.onegeek.sbtdotenv.DirtyEnvironmentHack$[0m
+[0m2022.01.12 15:33:37 ERROR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations[0m
+[0m2022.01.12 15:33:37 ERROR WARNING: All illegal access operations will be denied in a future release[0m
+[0m2022.01.12 15:33:37 INFO  [info] Configured .env environment[0m
+[0m2022.01.12 15:34:29 INFO  [success] Generated .bloop/distProject.json[0m
+[0m2022.01.12 15:34:29 INFO  [success] Generated .bloop/distProject-test.json[0m
+[0m2022.01.12 15:34:29 INFO  [success] Total time: 52 s, completed 12 Jan 2022, 15:34:29[0m
+[0m2022.01.12 15:34:30 INFO  time: ran 'sbt bloopInstall' in 1m24s[0m
+[0m2022.01.12 15:34:30 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher14873810392930374941/bsp.socket'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+error: Giving up on waiting for a connection, printing embedded bloop logs:
+> No server running at 127.0.0.1:8212, let's fire one...
+> Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 30366'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/Users/amirblum/repos/exploring-akka-http/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/amirblum/repos/exploring-akka-http/.bloop/distProject-test.json'
+[0m[32m[D][0m Loading project from '/Users/amirblum/repos/exploring-akka-http/.bloop/distProject.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.2.
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar
+[0m[32m[D][0m Missing analysis file for project 'distProject-test'
+[0m[32m[D][0m Missing analysis file for project 'distProject'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:30366...
+The server is listening for incoming connections at tcp://127.0.0.1:30366...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.12 15:35:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.12 15:35:04 INFO  Attempting to connect to the build server...[0m
+[0m2022.01.12 15:35:04 Starting the bsp launcher for bloop...
+INFO  Attempting to connect to the build server...[0m
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher3690887289064924345/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7441500634282186562/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7441500634282186562/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7441500634282186562/bsp.socket...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher3690887289064924345/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher3690887289064924345/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.12 15:35:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.12 15:35:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+No more data in the client stdin, exiting...
+[0m2022.01.12 15:35:25 ERROR Timeout waiting for 'build/initialize' response[0m
+[0m2022.01.12 15:35:25 WARN  Retrying connection to the build server Bloop[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher8940979727535352464/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher8940979727535352464/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher8940979727535352464/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.12 15:35:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.12 15:35:25 INFO  time: Connected to build server in 55s[0m
+[0m2022.01.12 15:35:25 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.12 15:35:25 INFO  time: Imported build in 0.11s[0m
+[0m2022.01.12 15:35:35 INFO  time: indexed workspace in 10s[0m
+[0m2022.01.12 15:35:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:35:37 INFO  no build target: using presentation compiler with only scala-library: 2.12.15[0m
+[0m2022.01.12 15:35:42 INFO  time: code lens generation in 6.47s[0m
+[0m2022.01.12 15:35:49 INFO  skipping build import with status 'Installed'[0m
+[0m2022.01.12 15:35:49 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:36:03 INFO  time: compiled distProject in 14s[0m
+[0m2022.01.12 15:36:03 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:36:08 INFO  running '/Library/Java/JavaVirtualMachines/openjdk-14.0.1.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/metals4387089144453653062/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2022.01.12 15:36:09 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 14.0.1)[0m
+[0m2022.01.12 15:36:09 INFO  [info] loading settings for project exploring-akka-http-build-build-build from metals.sbt ...[0m
+[0m2022.01.12 15:36:16 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project/project[0m
+[0m2022.01.12 15:36:16 INFO  [info] loading settings for project exploring-akka-http-build-build from metals.sbt ...[0m
+[0m2022.01.12 15:36:17 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project[0m
+[0m2022.01.12 15:36:17 INFO  user cancelled sbt bloopInstall[0m
+[0m2022.01.12 15:36:17 INFO  skipping build import with status 'Cancelled'[0m
+[0m2022.01.12 15:36:17 INFO  time: ran 'sbt bloopInstall' in 9.11s[0m
+[0m2022.01.12 15:38:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:38:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:38:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:38:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:38:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:38:58 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:39:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:14 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:40:14 INFO  time: compiled distProject in 0.15s[0m
+[0m2022.01.12 15:40:14 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:40:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:40:17 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:40:17 INFO  time: compiled distProject in 0.12s[0m
+[0m2022.01.12 15:40:17 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:41:55 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:44:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:44:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:44:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:44:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:44:44 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:04 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:45:04 WARN  unsupported Scala 2.12.2[0m
+Jan 12, 2022 3:45:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 638
+[0m2022.01.12 15:45:04 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:45:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:04 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:04 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:45:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:04 INFO  time: compiled distProject in 0.21s[0m
+[0m2022.01.12 15:45:04 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:04 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:45:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:04 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:04 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:45:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:04 INFO  time: compiled distProject in 0.16s[0m
+[0m2022.01.12 15:45:04 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:04 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:04 INFO  time: compiled distProject in 0.12s[0m
+[0m2022.01.12 15:45:04 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:04 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:04 INFO  time: compiled distProject in 0.15s[0m
+[0m2022.01.12 15:45:04 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:11 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:11 INFO  time: compiled distProject in 0.12s[0m
+[0m2022.01.12 15:45:11 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:24 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:24 INFO  time: compiled distProject in 91ms[0m
+[0m2022.01.12 15:45:24 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:25 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:45:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:45:25 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:25 INFO  time: compiled distProject in 94ms[0m
+[0m2022.01.12 15:45:25 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:25 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:25 INFO  time: compiled distProject in 97ms[0m
+[0m2022.01.12 15:45:25 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:25 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:25 INFO  time: compiled distProject in 82ms[0m
+[0m2022.01.12 15:45:25 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:45:25 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:45:25 INFO  time: compiled distProject in 71ms[0m
+[0m2022.01.12 15:45:25 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:46:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:46:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:46:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:46:09 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:46:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:49:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:49:41 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:49:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:33 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:35 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:35 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:36 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:36 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:43 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:43 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:51 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:55 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:55 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:57 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:50:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:50:57 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:50:57 INFO  time: compiled distProject in 81ms[0m
+[0m2022.01.12 15:50:57 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:02 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:02 INFO  time: compiled distProject in 80ms[0m
+[0m2022.01.12 15:51:02 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:03 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:51:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:06 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:06 INFO  time: compiled distProject in 77ms[0m
+[0m2022.01.12 15:51:06 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:26 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:51:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:29 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/service/RestService.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 15:51:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:51:34 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:34 INFO  time: compiled distProject in 73ms[0m
+[0m2022.01.12 15:51:34 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:34 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:34 INFO  time: compiled distProject in 85ms[0m
+[0m2022.01.12 15:51:34 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:45 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:45 INFO  time: compiled distProject in 79ms[0m
+[0m2022.01.12 15:51:45 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:45 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:45 INFO  time: compiled distProject in 77ms[0m
+[0m2022.01.12 15:51:45 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:45 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:45 INFO  time: compiled distProject in 71ms[0m
+[0m2022.01.12 15:51:45 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:45 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:45 INFO  time: compiled distProject in 71ms[0m
+[0m2022.01.12 15:51:45 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:46 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:46 INFO  time: compiled distProject in 74ms[0m
+[0m2022.01.12 15:51:46 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:46 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:46 INFO  time: compiled distProject in 0.1s[0m
+[0m2022.01.12 15:51:46 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:51:55 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:51:55 INFO  time: compiled distProject in 75ms[0m
+[0m2022.01.12 15:51:55 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:52:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:52:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:53:00 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:53:00 INFO  time: compiled distProject in 71ms[0m
+[0m2022.01.12 15:53:00 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:53:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:53:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:53:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:53:42 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:53:42 INFO  time: compiled distProject in 99ms[0m
+[0m2022.01.12 15:53:42 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:54:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:17 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:22 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 15:54:22 INFO  time: compiled distProject in 0.11s[0m
+[0m2022.01.12 15:54:22 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 15:54:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 15:54:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:06:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:06:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:06:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:06:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:07:01 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:07:01 INFO  time: compiled distProject in 75ms[0m
+[0m2022.01.12 16:07:01 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 16:07:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:07:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:07:15 ERROR scalafmt: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala:12: error: [dialect default] expected class or object definition val
+val sqs = new AmazonSQSClient()
+^[0m
+[0m2022.01.12 16:07:16 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:07:16 INFO  time: compiled distProject in 0.11s[0m
+[0m2022.01.12 16:07:17 ERROR scalafmt: /Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala:12: error: [dialect default] expected class or object definition val
+val sqs = new AmazonSQSClient()
+^[0m
+[0m2022.01.12 16:07:17 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:07:17 INFO  time: compiled distProject in 55ms[0m
+[0m2022.01.12 16:07:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:07:26 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 16:07:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:07:35 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:07:35 INFO  time: compiled distProject in 0.12s[0m
+[0m2022.01.12 16:07:35 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 16:08:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:08:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:12:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:34:46 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:34:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:34:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:34:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:34:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:03 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 16:35:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:03 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 16:35:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:03 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 16:35:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:35:21 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:35:21 INFO  time: compiled distProject in 81ms[0m
+[0m2022.01.12 16:35:21 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 16:35:21 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:35:22 INFO  time: compiled distProject in 77ms[0m
+[0m2022.01.12 16:35:22 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 16:35:22 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:35:22 INFO  time: compiled distProject in 78ms[0m
+[0m2022.01.12 16:35:22 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 16:37:43 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:37:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:37:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 16:37:49 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 16:37:49 INFO  time: compiled distProject in 72ms[0m
+[0m2022.01.12 16:37:49 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:48:43 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:45 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:48:45 INFO  time: compiled distProject in 0.2s[0m
+[0m2022.01.12 17:48:45 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:48:46 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:48:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:49:02 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:49:02 INFO  time: compiled distProject in 79ms[0m
+[0m2022.01.12 17:49:02 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:49:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:49:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:49:14 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:49:14 INFO  time: compiled distProject in 69ms[0m
+[0m2022.01.12 17:49:14 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:49:43 WARN  unsupported Scala 2.12.2[0m
+Jan 12, 2022 5:49:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1486
+[0m2022.01.12 17:49:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:49:59 WARN  unsupported Scala 2.12.2[0m
+Jan 12, 2022 5:50:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1522
+[0m2022.01.12 17:50:03 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:50:03 INFO  time: compiled distProject in 69ms[0m
+[0m2022.01.12 17:50:03 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:50:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:50:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:50:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:50:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:50:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:50:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:50:34 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:50:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:16 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:51:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:16 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:51:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:19 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:51:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:51:20 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:51:20 INFO  time: compiled distProject in 63ms[0m
+[0m2022.01.12 17:51:20 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:51:29 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:51:29 INFO  time: compiled distProject in 70ms[0m
+[0m2022.01.12 17:51:29 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:52:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:21 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:52:27 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:52:27 INFO  time: compiled distProject in 0.11s[0m
+[0m2022.01.12 17:52:27 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:52:29 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:52:29 INFO  time: compiled distProject in 67ms[0m
+[0m2022.01.12 17:52:29 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:52:52 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:52:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:53:00 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:53:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:53:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:53:01 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:53:01 INFO  time: compiled distProject in 68ms[0m
+[0m2022.01.12 17:53:01 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:53:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:53:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:53:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:50 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:54:50 INFO  time: compiled distProject in 68ms[0m
+[0m2022.01.12 17:54:50 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:54:50 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:54:50 INFO  time: compiled distProject in 66ms[0m
+[0m2022.01.12 17:54:50 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 17:54:51 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 17:54:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 17:54:50 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.12 17:54:50 INFO  time: compiled distProject in 89ms[0m
+[0m2022.01.12 17:54:50 ERROR Unexpected error when compiling distProject: 'java.lang.RuntimeException: /packages cannot be represented as URI'[0m
+[0m2022.01.12 18:21:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:17 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:21:17 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:44 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:49 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 18:26:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:49 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 18:26:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:49 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.12 18:26:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 18:26:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.12 19:08:46 INFO  Shut down connection with build server.[0m
+[0m2022.01.12 19:08:46 INFO  Shut down connection with build server.[0m
+[0m2022.01.12 19:08:46 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+Jan 12, 2022 7:08:47 PM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireStreamClosed
+INFO: The input stream was closed.
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/sun.nio.ch.SourceChannelImpl.endRead(SourceChannelImpl.java:263)
+	at java.base/sun.nio.ch.SourceChannelImpl.read(SourceChannelImpl.java:285)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:59)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:107)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:101)
+	at java.base/java.io.InputStream.read(InputStream.java:218)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:81)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:79)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[0m2022.01.12 19:10:27 INFO  Started: Metals version 0.10.9 in workspace '/Users/amirblum/repos/exploring-akka-http' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.12 19:10:35 INFO  time: initialize in 7.8s[0m
+[0m2022.01.12 19:10:36 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7008653604201574092/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2022.01.12 19:10:37 INFO  skipping build import with status 'Cancelled'[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/amirblum/repos/exploring-akka-http/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/amirblum/repos/exploring-akka-http/.bloop/distProject.json'
+[0m[32m[D][0m Loading project from '/Users/amirblum/repos/exploring-akka-http/.bloop/distProject-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.2.
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.jar
+[0m[32m[D][0m   => /Users/amirblum/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar
+[0m[32m[D][0m Skipped configuration of SemanticDB in unsupported 2.12.2 projects
+[0m[32m[D][0m Missing analysis file for project 'distProject'
+[0m[32m[D][0m Missing analysis file for project 'distProject-test'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7008653604201574092/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7008653604201574092/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.12 19:10:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.12 19:10:51 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+[0m2022.01.12 19:10:51Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher4853326159264047393/bsp.socket'... 
+INFO  Attempting to connect to the build server...[0m
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7969860972173398411/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher4853326159264047393/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher4853326159264047393/bsp.socket...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7969860972173398411/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher7969860972173398411/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.12 19:10:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.12 19:10:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.12 19:10:51 INFO  time: Connected to build server in 14s[0m
+[0m2022.01.12 19:10:51 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.12 19:10:51 INFO  time: Imported build in 0.19s[0m
+[0m2022.01.12 19:11:03 INFO  time: indexed workspace in 11s[0m
+[0m2022.01.12 19:11:05 INFO  no build target: using presentation compiler with only scala-library: 2.12.15[0m
+[0m2022.01.13 10:22:39 INFO  time: code lens generation in 2.5s[0m
+[0m2022.01.13 10:22:39 INFO  time: code lens generation in 3.3s[0m
+[0m2022.01.13 10:48:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:48:52 INFO  compiling distproject (7 scala sources)[0m
+[0m2022.01.13 10:48:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:04 INFO  time: compiled distProject in 11s[0m
+[0m2022.01.13 10:49:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:49:59 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.13 10:50:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:50:02 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.13 10:50:02 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:50:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:50:26 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:51:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.13 10:51:18 WARN  unsupported Scala 2.12.2[0m
+Jan 14, 2022 4:06:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 14, 2022 5:05:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 14, 2022 5:05:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.01.16 14:38:20 WARN  unsupported Scala 2.12.2[0m
+Jan 16, 2022 2:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 190
+[0m2022.01.16 14:38:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:38:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:38:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:38:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:38:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:38:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:44:18 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/AuthorRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 14:44:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:44:18 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 14:44:21 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:44:27 INFO  time: compiled distProject in 8.28s[0m
+[0m2022.01.16 14:54:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:54:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:59:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:59:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:59:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:59:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 14:59:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:09 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:00:10 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:00:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:14 INFO  time: compiled distProject in 4.89s[0m
+[0m2022.01.16 15:00:14 WARN  unsupported Scala 2.12.2[0m
+Jan 16, 2022 3:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 337
+[0m2022.01.16 15:00:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:20 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:00:21 INFO  time: compiled distProject in 1.28s[0m
+[0m2022.01.16 15:00:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:58 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:00:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:00 INFO  time: compiled distProject in 1.28s[0m
+[0m2022.01.16 15:00:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:00:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:34 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:01:35 INFO  time: compiled distProject in 1.42s[0m
+[0m2022.01.16 15:01:35 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:01:35 INFO  time: compiled distProject in 0.77s[0m
+[0m2022.01.16 15:01:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:01:58 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:02:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:02:14 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:02:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:36 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:03:36 INFO  time: compiled distProject in 0.59s[0m
+[0m2022.01.16 15:03:50 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:53 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:03:55 INFO  time: compiled distProject in 1.68s[0m
+[0m2022.01.16 15:03:55 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:55 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:56 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:03:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:58 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:58 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:58 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:58 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:03:58 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:59 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:03:59 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:04:01 INFO  time: compiled distProject in 1.94s[0m
+[0m2022.01.16 15:04:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:15 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:33 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:04:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:04:38 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:46 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:06:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:00 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:07:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:00 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:07:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:07 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:07:08 INFO  time: compiled distProject in 1.07s[0m
+[0m2022.01.16 15:07:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:11 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:07:13 INFO  time: compiled distProject in 2.21s[0m
+[0m2022.01.16 15:07:14 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:14 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:14 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:54 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:07:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:07:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:03 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:07 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:08:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:07 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:08:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:07 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:08:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:07 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:08:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:08 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:08:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:27 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:30 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:39 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:48 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:08:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:32 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:34 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:09:34 INFO  time: compiled distProject in 0.65s[0m
+[0m2022.01.16 15:09:37 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:54 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:09:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:55 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:55 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:09:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:09:56 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:09:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:21 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:10:21 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:23 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:51 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:10:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:51 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:10:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:52 INFO  time: compiled distProject in 1.64s[0m
+[0m2022.01.16 15:10:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:10:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:11:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:11:15 WARN  unsupported Scala 2.12.2[0m
+Jan 16, 2022 3:11:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1131
+[0m2022.01.16 15:11:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:11:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:11:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:11:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:02 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:02 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:02 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:04 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:15 WARN  unsupported Scala 2.12.2[0m
+Jan 16, 2022 3:13:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1249
+[0m2022.01.16 15:13:25 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:13:25 INFO  time: compiled distProject in 0.71s[0m
+[0m2022.01.16 15:13:25 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:13:26 INFO  time: compiled distProject in 0.46s[0m
+[0m2022.01.16 15:13:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:28 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:39 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:39 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:43 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:43 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:13:52 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:13:52 INFO  time: compiled distProject in 0.48s[0m
+[0m2022.01.16 15:14:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:14:08 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:14:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:14:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 INFO  time: compiled distProject in 0.52s[0m
+[0m2022.01.16 15:14:08 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:14:08 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:14:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:14:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:08 INFO  time: compiled distProject in 0.45s[0m
+[0m2022.01.16 15:14:09 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:14:09 INFO  time: compiled distProject in 0.46s[0m
+[0m2022.01.16 15:14:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:16 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:21 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:25 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:14:25 INFO  time: compiled distProject in 0.47s[0m
+[0m2022.01.16 15:14:33 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:14:33 INFO  time: compiled distProject in 0.45s[0m
+[0m2022.01.16 15:14:38 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:14:38 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:05 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:15:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:53 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:16:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:17:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:17:03 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:17:03 INFO  time: compiled distProject in 0.44s[0m
+[0m2022.01.16 15:17:05 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:17:05 INFO  time: compiled distProject in 0.43s[0m
+[0m2022.01.16 15:17:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:17:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:17:31 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:17:32 INFO  time: compiled distProject in 1.17s[0m
+[0m2022.01.16 15:18:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:18:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:18:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:20:57 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:10 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:11 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:13 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:51 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:57:54 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:00 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:06 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:06 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:09 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:14 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:15 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:58:16 INFO  time: compiled distProject in 1.59s[0m
+[0m2022.01.16 15:58:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:33 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:33 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:34 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:58:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:34 INFO  time: compiled distProject in 0.82s[0m
+[0m2022.01.16 15:58:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:36 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:37 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:37 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:37 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:37 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:37 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:37 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:39 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:39 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:39 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:39 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:39 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:41 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:58:41 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:41 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:42 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:42 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:42 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:43 INFO  time: compiled distProject in 2.26s[0m
+[0m2022.01.16 15:58:44 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:44 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:44 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:44 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:44 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:44 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.16 15:58:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:45 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:46 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:46 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:49 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:58:52 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:59:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:59:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:59:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:59:56 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 15:59:59 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 15:59:59 INFO  time: compiled distProject in 0.46s[0m
+[0m2022.01.16 16:00:01 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 16:00:07 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 16:00:09 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 16:00:10 INFO  time: compiled distProject in 1.04s[0m
+[0m2022.01.16 16:00:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 16:00:12 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 16:01:08 INFO  compiling distproject (1 scala source)[0m
+[0m2022.01.16 16:01:09 INFO  time: compiled distProject in 1.05s[0m
+[0m2022.01.16 16:01:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 16:01:19 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.16 16:01:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 10:55:59 INFO  running '/Users/amirblum/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/metals3020004536001375972/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2022.01.17 10:56:01 INFO  [info] welcome to sbt 1.5.5 (Azul Systems, Inc. Java 11.0.13)[0m
+[0m2022.01.17 10:56:01 INFO  [info] loading settings for project exploring-akka-http-build-build-build from metals.sbt ...[0m
+[0m2022.01.17 10:56:07 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project/project[0m
+[0m2022.01.17 10:56:07 INFO  [info] loading settings for project exploring-akka-http-build-build from metals.sbt ...[0m
+[0m2022.01.17 10:56:07 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project[0m
+[0m2022.01.17 10:56:10 INFO  [success] Generated .bloop/exploring-akka-http-build-build.json[0m
+[0m2022.01.17 10:56:10 INFO  [success] Total time: 2 s, completed 17 Jan 2022, 10:56:10[0m
+[0m2022.01.17 10:56:10 INFO  [info] loading settings for project exploring-akka-http-build from metals.sbt,plugins.sbt ...[0m
+[0m2022.01.17 10:56:10 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project[0m
+[0m2022.01.17 10:56:10 INFO  [success] Generated .bloop/exploring-akka-http-build.json[0m
+[0m2022.01.17 10:56:10 INFO  [success] Total time: 1 s, completed 17 Jan 2022, 10:56:11[0m
+[0m2022.01.17 10:56:12 INFO  [info] loading settings for project distProject from build.sbt ...[0m
+[0m2022.01.17 10:56:12 INFO  [info] set current project to akka-http-microservice (in build file:/Users/amirblum/repos/exploring-akka-http/)[0m
+[0m2022.01.17 10:56:12 INFO  [info] .env detected (fileName=.env). About to configure JVM System Environment with new map[0m
+[0m2022.01.17 10:56:13 ERROR WARNING: An illegal reflective access operation has occurred[0m
+[0m2022.01.17 10:56:13 ERROR WARNING: Illegal reflective access by au.com.onegeek.sbtdotenv.DirtyEnvironmentHack$ (file:/Users/amirblum/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/au.com.onegeek/sbt-dotenv/scala_2.12/sbt_1.0/2.1.204/jars/sbt-dotenv.jar) to field java.lang.ProcessEnvironment.theEnvironment[0m
+[0m2022.01.17 10:56:13 ERROR WARNING: Please consider reporting this to the maintainers of au.com.onegeek.sbtdotenv.DirtyEnvironmentHack$[0m
+[0m2022.01.17 10:56:13 ERROR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations[0m
+[0m2022.01.17 10:56:13 ERROR WARNING: All illegal access operations will be denied in a future release[0m
+[0m2022.01.17 10:56:12 INFO  [info] Configured .env environment[0m
+[0m2022.01.17 10:56:28 INFO  [success] Generated .bloop/distProject.json[0m
+[0m2022.01.17 10:56:28 INFO  [success] Generated .bloop/distProject-test.json[0m
+[0m2022.01.17 10:56:28 INFO  [success] Total time: 15 s, completed 17 Jan 2022, 10:56:28[0m
+[0m2022.01.17 10:56:28 INFO  time: ran 'sbt bloopInstall' in 29s[0m
+[0m2022.01.17 10:56:28 INFO  Disconnecting from Bloop session...[0m
+[0m2022.01.17 10:56:28 INFO  Shut down connection with build server.[0m
+[0m2022.01.17 10:56:28 INFO  Shut down connection with build server.[0m
+[0m2022.01.17 10:56:28 INFO  Shut down connection with build server.[0m
+[0m2022.01.17 10:56:28 INFO  Attempting to connect to the build server...[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher12590977127779135280/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/amirblum/repos/exploring-akka-http/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/amirblum/repos/exploring-akka-http/.bloop/distProject-test.json'
+[0m[32m[D][0m Loading project from '/Users/amirblum/repos/exploring-akka-http/.bloop/distProject.json'
+[0m[32m[D][0m Skipped configuration of SemanticDB in unsupported 2.12.2 projects
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher12590977127779135280/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher12590977127779135280/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.17 10:56:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.17 10:56:29 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...[0m
+2022.01.17 10:56:29 INFO  Attempting to connect to the build server...[0m
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher9468858716559807964/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher12638223291730769543/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher12638223291730769543/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher12638223291730769543/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.17 10:56:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher9468858716559807964/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/bsp-launcher9468858716559807964/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.17 10:56:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/amirblum/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.17 10:56:28 INFO  time: Connected to build server in 0.28s[0m
+[0m2022.01.17 10:56:28 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.17 10:56:34 INFO  time: indexed workspace in 5.2s[0m
+[0m2022.01.17 10:56:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 10:56:36 INFO  compiling distproject (2 scala sources)[0m
+[0m2022.01.17 10:56:37 INFO  no build target: using presentation compiler with only scala-library: 2.12.15[0m
+[0m2022.01.17 10:56:38 INFO  time: code lens generation in 2.4s[0m
+[0m2022.01.17 10:56:41 WARN  there were four deprecation warnings; re-run with -deprecation for details[0m
+[0m2022.01.17 10:56:41 INFO  time: compiled distProject in 4.89s[0m
+[0m2022.01.17 10:56:41 INFO  skipping build import with status 'Installed'[0m
+[0m2022.01.17 11:08:46 INFO  skipping build import with status 'Dismissed'[0m
+[0m2022.01.17 11:09:37 INFO  skipping build import with status 'Dismissed'[0m
+[0m2022.01.17 11:09:37 INFO  skipping build import with status 'Dismissed'[0m
+[0m2022.01.17 11:09:37 INFO  skipping build import with status 'Dismissed'[0m
+[0m2022.01.17 11:10:33 INFO  skipping build import with status 'Dismissed'[0m
+[0m2022.01.17 11:10:33 INFO  skipping build import with status 'Dismissed'[0m
+[0m2022.01.17 11:10:34 INFO  skipping build import with status 'Dismissed'[0m
+Jan 17, 2022 11:10:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FUsers%2Famirblum%2Frepos%2Fexploring-akka-http%2F.metals%2Freadonly%2Fdependencies%2Fscala-library-2.12.14-sources.jar%2Fscala%2Fcollection%2Fgeneric%2FGenericCompanion.scala:20: error: { expected but package found
+package collection
+^
+file%3A%2F%2F%2FUsers%2Famirblum%2Frepos%2Fexploring-akka-http%2F.metals%2Freadonly%2Fdependencies%2Fscala-library-2.12.14-sources.jar%2Fscala%2Fcollection%2Fgeneric%2FGenericCompanion.scala:20: error: { expected but package found
+package collection
+^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:941)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:947)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrError(ScalametaParser.scala:809)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrNil(ScalametaParser.scala:827)
+	at scala.meta.internal.parsers.ScalametaParser.packageBody$1(ScalametaParser.scala:5238)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$packageDef$1(ScalametaParser.scala:5241)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.packageDef(ScalametaParser.scala:5230)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$packageOrPackageObjectDef$1(ScalametaParser.scala:5227)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.packageOrPackageObjectDef(ScalametaParser.scala:5224)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5086)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5310)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 17, 2022 3:17:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2089
+[0m2022.01.17 15:23:17 INFO  skipping build import with status 'Requested'[0m
+[0m2022.01.17 15:23:37 INFO  running '/Users/amirblum/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/8_/sr5pbw012vg47wkv6nfqqh080000gn/T/metals16066619140153767949/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2022.01.17 15:23:39 INFO  [info] welcome to sbt 1.5.5 (Azul Systems, Inc. Java 11.0.13)[0m
+[0m2022.01.17 15:23:41 INFO  [info] loading settings for project exploring-akka-http-build-build-build from metals.sbt ...[0m
+[0m2022.01.17 15:23:47 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project/project[0m
+[0m2022.01.17 15:23:48 INFO  [info] loading settings for project exploring-akka-http-build-build from metals.sbt ...[0m
+[0m2022.01.17 15:23:48 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project/project[0m
+[0m2022.01.17 15:23:51 INFO  [success] Generated .bloop/exploring-akka-http-build-build.json[0m
+[0m2022.01.17 15:23:51 INFO  [success] Total time: 3 s, completed 17 Jan 2022, 15:23:51[0m
+[0m2022.01.17 15:23:51 INFO  [info] loading settings for project exploring-akka-http-build from metals.sbt,plugins.sbt ...[0m
+[0m2022.01.17 15:23:51 INFO  [info] loading project definition from /Users/amirblum/repos/exploring-akka-http/project[0m
+[0m2022.01.17 15:23:52 INFO  [success] Generated .bloop/exploring-akka-http-build.json[0m
+[0m2022.01.17 15:23:52 INFO  [success] Total time: 1 s, completed 17 Jan 2022, 15:23:52[0m
+[0m2022.01.17 15:23:52 INFO  [info] loading settings for project distProject from build.sbt ...[0m
+[0m2022.01.17 15:23:52 INFO  [info] set current project to akka-http-microservice (in build file:/Users/amirblum/repos/exploring-akka-http/)[0m
+[0m2022.01.17 15:23:52 INFO  [info] .env detected (fileName=.env). About to configure JVM System Environment with new map[0m
+[0m2022.01.17 15:23:52 ERROR WARNING: An illegal reflective access operation has occurred[0m
+[0m2022.01.17 15:23:52 ERROR WARNING: Illegal reflective access by au.com.onegeek.sbtdotenv.DirtyEnvironmentHack$ (file:/Users/amirblum/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/au.com.onegeek/sbt-dotenv/scala_2.12/sbt_1.0/2.1.204/jars/sbt-dotenv.jar) to field java.lang.ProcessEnvironment.theEnvironment[0m
+[0m2022.01.17 15:23:52 ERROR WARNING: Please consider reporting this to the maintainers of au.com.onegeek.sbtdotenv.DirtyEnvironmentHack$[0m
+[0m2022.01.17 15:23:52 ERROR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations[0m
+[0m2022.01.17 15:23:52 ERROR WARNING: All illegal access operations will be denied in a future release[0m
+[0m2022.01.17 15:23:52 INFO  [info] Configured .env environment[0m
+[0m2022.01.17 15:23:56 INFO  user cancelled sbt bloopInstall[0m
+[0m2022.01.17 15:23:56 INFO  time: ran 'sbt bloopInstall' in 18s[0m
+[0m2022.01.17 15:29:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:18 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:20 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:22 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:24 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:24 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:24 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:24 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:25 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:25 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:25 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:29 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:31 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:33 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:34 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:34 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:34 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:34 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:36 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:35 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:40 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:46 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:46 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:47 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:47 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:47 WARN  unsupported Scala 2.12.2[0m
+[0m2022.01.17 15:29:47 ERROR code navigation does not work for the file '/Users/amirblum/repos/exploring-akka-http/src/main/scala/org/example/routes/BookRoutes.scala' because the Scala version 2.12.2 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2022.01.17 15:29:47 WARN  unsupported Scala 2.12.2[0m
+Jan 17, 2022 3:30:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
